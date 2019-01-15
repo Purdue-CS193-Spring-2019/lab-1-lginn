@@ -1,5 +1,5 @@
 # Logan Ginn's first CS193 Lab
-<br/>
+
 ### Favorite things about CS193
 - Course staff seem chill
 - No Exams
