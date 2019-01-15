@@ -1,11 +1,11 @@
 # Logan Ginn's first CS193 Lab
 <br/>
-   ### Favorite things about CS193
-   <br/>
-   - Course staff seem chill
-   - No Exams
-   - No textbook
-   - No Homework
+### Favorite things about CS193
+<br/>
+- Course staff seem chill
+- No Exams
+- No textbook
+- No Homework
 
 <br/>
 <br/>
